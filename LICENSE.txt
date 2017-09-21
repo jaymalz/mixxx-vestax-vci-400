@@ -1,0 +1,7 @@
+## tekhedd/mixxx-vestax-vci-400 project license
+
+This work is derived from the original mapping by Owen Williams and Tobias Rafreider. So,
+it's licensed the same as Mixxx (GPLv2), and retains that license.
+
+Contributions to this project by me (tekHedd) are licensed under the WTFPL 2. So you can do what
+you like with them, including relicensing the code under GPLv2 and distributing it thusly.
