@@ -87,8 +87,6 @@ VestaxVCI400.init = function (id) {
  * Called when the MIDI device is closed
  */
 VestaxVCI400.shutdown = function () {
-    engine.stopTimer(VestaxVCI400.backgroundTickTimer);
-        
     //Initialize controls and their default values here
     VestaxVCI400.Decks.A.clearLights();
     VestaxVCI400.Decks.B.clearLights();
